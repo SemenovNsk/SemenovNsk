@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @SemenovNsk
+- 👀 I am interested in a lot of things that go beyond programming, but at the same time I know how to include them in my interest in programming. My personal Ouroboros
+- ╰(*°▽°*)╯ I have launched a couple of startups in the traditional field, now it's time for IT╰(*°▽°*)╯
+-    I'm interested in learning new things, sports, so many other things. Yer, I'm also love to talk, so "don't herritate and contact me"(❁´◡`❁)
+- 🌱Currently I am actively studying pure C, studying at school 21
+-   Working on projects: the implementation of string.h, math.h and the work of grep and cat utilities in C.
+- 🤖I am extremely interested in the topic of AI and ML and its application, so wait soon, if there is an uprising of machines, you know who to blame
+- 📫 How to reach me:
+-     E-mail: alsemenov98@yandex.com
+-     Telegram: SemenovNsk
